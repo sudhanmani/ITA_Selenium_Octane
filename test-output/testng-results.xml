@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-08T12:33:06 UTC" name="Default suite" finished-at="2022-11-08T12:33:10 UTC" duration-ms="4701">
+    <groups>
+    </groups>
+    <test started-at="2022-11-08T12:33:06 UTC" name="Default test" finished-at="2022-11-08T12:33:10 UTC" duration-ms="4701">
+      <class name="com.test.octane_selenium.SampleSeleniumScript1">
+        <test-method signature="chromeBrowserTest()[pri:0, instance:com.test.octane_selenium.SampleSeleniumScript1@3e84448c]" started-at="2022-11-08T12:33:06 UTC" name="chromeBrowserTest" finished-at="2022-11-08T12:33:10 UTC" duration-ms="4658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeBrowserTest -->
+      </class> <!-- com.test.octane_selenium.SampleSeleniumScript1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
